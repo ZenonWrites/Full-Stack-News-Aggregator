@@ -1,0 +1,45 @@
+NewsAPI fetcher initialized
+Google News fetcher initialized
+Fetching from newsapi for category: technology
+NewsAPI: Returning 5 processed articles
+Got 5 articles from newsapi for technology
+Fetching from newsapi for category: business
+NewsAPI: Returning 5 processed articles
+Got 5 articles from newsapi for business
+Fetching from newsapi for category: sports
+NewsAPI: Returning 5 processed articles
+Got 5 articles from newsapi for sports
+Fetching from google for category: technology
+GoogleNews: Returning 0 articles
+Got 0 articles from google for technology
+Fetching from google for category: business
+GoogleNews: Returning 0 articles
+Got 0 articles from google for business
+Fetching from google for category: sports
+GoogleNews: Returning 0 articles
+Got 0 articles from google for sports
+Total articles collected: 15
+NewsAPI fetcher initialized
+Google News fetcher initialized
+Fetching from newsapi for category: technology
+NewsAPI: Got 5 articles for country=us, category=technology
+NewsAPI: Returning 5 processed articles
+Got 5 articles from newsapi for technology
+Fetching from newsapi for category: business
+NewsAPI: Got 5 articles for country=us, category=business
+NewsAPI: Returning 5 processed articles
+Got 5 articles from newsapi for business
+Fetching from newsapi for category: sports
+NewsAPI: Got 5 articles for country=us, category=sports
+NewsAPI: Returning 5 processed articles
+Got 5 articles from newsapi for sports
+Fetching from google for category: technology
+GoogleNews: Returning 0 articles
+Got 0 articles from google for technology
+Fetching from google for category: business
+GoogleNews: Returning 0 articles
+Got 0 articles from google for business
+Fetching from google for category: sports
+GoogleNews: Returning 0 articles
+Got 0 articles from google for sports
+Total articles collected: 15
